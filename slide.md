@@ -176,7 +176,7 @@ $$\text{Efficiency Gain} = \frac{2.3 - 0.8}{2.3} \times 100\% = 65.2\%$$
 ## Questions & Discussion
 
 **Contact Information:**
-- **Email:** 23f3000048@ds.study.iitm.ac.in
+- **Email:** 23f2005472@ds.study.iitm.ac.in
 - **Analytics Dashboard:** company.com/analytics
 - **Next Review:** October 15, 2025
 
